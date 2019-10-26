@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
+import Cypress from './Cypress.jpg';
 import './App.css';
 
 function App() {
@@ -7,8 +8,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src={Cypress} className="Cypress-logo" alt="cypress-logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Simple Testing with Cypress.io and FizzBuzz kata
         </p>
         <a
           className="App-link"
@@ -16,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Github Repo
         </a>
       </header>
     </div>
