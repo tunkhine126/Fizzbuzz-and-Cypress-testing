@@ -6,7 +6,7 @@ This was initially built as a project to learn about testing with Cypress.io. I 
 You can read a full "how to" on Medium [here](https://medium.com/@tunkhine126/red-green-refactor-42b5b643b506).
  
 ## Screenshots
-![image]()
+![image](https://github.com/tunkhine126/Fizzbuzz-and-Cypress-testing/blob/master/assets/tests_passing.png?raw=true)
 
 ## Tech/framework used
 <b>Built with</b>
